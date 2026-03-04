@@ -36,7 +36,7 @@ jobs:
           python - << 'EOF'
           import os
           import requests
-          from fetch_lovelive import fetch
+          from fetch_lovelive_and_push import fetch
 
           bot_url = os.environ["QQ_BOT_URL"]
           token = os.environ["QQ_ACCESS_TOKEN"]
