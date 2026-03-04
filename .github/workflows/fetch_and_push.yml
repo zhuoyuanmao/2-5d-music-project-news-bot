@@ -1,0 +1,57 @@
+name: Fetch Lovelive Tweets and Push to QQ
+
+# 手动触发
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ 拉取仓库代码
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2️⃣ 安装依赖
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests
+
+      # 3️⃣ 执行抓取并推送 QQ
+      - name: Fetch RSS and push to QQ
+        env:
+          QQ_BOT_URL: ${{ secrets.QQ_BOT_URL }}
+          QQ_ACCESS_TOKEN: ${{ secrets.QQ_ACCESS_TOKEN }}
+          QQ_USER_ID: ${{ secrets.QQ_USER_ID }}
+        run: |
+          python - << 'EOF'
+          import os
+          import requests
+          from fetch_lovelive import fetch
+
+          bot_url = os.environ["QQ_BOT_URL"]
+          token = os.environ["QQ_ACCESS_TOKEN"]
+          qq_id = os.environ["QQ_USER_ID"]
+
+          messages = fetch()
+          if not messages:
+              messages = ["过去24小时没有新推文"]
+
+          for msg in messages:
+              payload = {
+                  "user_id": qq_id,
+                  "message": msg,
+                  "access_token": token
+              }
+              resp = requests.post(bot_url, json=payload)
+              print(resp.status_code, resp.text)
+          EOF
