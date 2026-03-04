@@ -32,7 +32,8 @@ news_list = list(unique.values())[:5]
 
 data = {
     "updated": datetime.now().isoformat(),
-    "news": news_list
+    "news": news_list,
+    "res": res
 }
 
 with open("news.json", "w", encoding="utf-8") as f:
