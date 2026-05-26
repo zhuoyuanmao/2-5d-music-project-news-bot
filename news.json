@@ -1,41 +1,71 @@
 {
-  "updated": "2026-05-25 12:28 JST",
-  "count": 6,
+  "updated": "2026-05-26 11:48 JST",
+  "count": 11,
   "news": [
+    {
+      "title": "R to @LoveLive_staff: YouTube Aqours アーティストチャンネルはこちら https://www.youtube.com/@lovelive_sunshine_",
+      "link": "https://nitter.net/LoveLive_staff/status/2059103256799002801#m",
+      "published": "2026-05-26 11:44 JST",
+      "is_retweet": false
+    },
+    {
+      "title": "☀スクールアイドル活動 アバター衣装☀ 黒澤ルビィのスタイリングを公開✨ #lovelive #Aqours",
+      "link": "https://nitter.net/LoveLive_staff/status/2059099703547937167#m",
+      "published": "2026-05-26 11:30 JST",
+      "is_retweet": false
+    },
+    {
+      "title": "☀スクールアイドル活動 ショート動画☀ 【1本目！】ダンスリレーチャレンジ「恋になりたいAQUARIUM」渡辺 曜 https://youtube.com/shorts/ufG7bmKQ0I4?si=MaYRebs1QPnGAAq3 #lovelive #Aqours",
+      "link": "https://nitter.net/LoveLive_staff/status/2059095557734560099#m",
+      "published": "2026-05-26 11:13 JST",
+      "is_retweet": false
+    },
+    {
+      "title": "R to @LoveLive_staff: ☀グッズ情報☀ 「君のこころは輝いてるかい？」「恋になりたいAQUARIUM」「浦の星女学院夏制服」「未熟DREAMER」の2衣装が映えるアイテム受注受付中！ https://x.com/LoveLive_staff/status/2055121097998340234 #lovelive #Aqours",
+      "link": "https://nitter.net/LoveLive_staff/status/2059098197042319376#m",
+      "published": "2026-05-26 11:24 JST",
+      "is_retweet": false
+    },
+    {
+      "title": "🍨メディア情報🍨 USEN C26ch「アーティスト・セルフ・ポートレート」に #AiScReam の4人が出演中🎉 番組では新体制への意気込みや 新曲「NEXT CARD」についてお話しています💗 本日から 5/31(日)まで、1週間放送されます♪ 詳細はコチラ🔽 https://e.usen.com/feature/feature-unext/aasere-usen.html 是非チェックしてください🥄 #ラブカ #lovelive",
+      "link": "https://nitter.net/LoveLive_staff/status/2058880770404721043#m",
+      "published": "2026-05-25 21:00 JST",
+      "is_retweet": false
+    },
+    {
+      "title": "☀イベント情報☀ 6月9日にTOYOTA ARENA TOKYOにて開催される “リスアニ！LIVE on TOKYO ANIME MUSIC HIGHLIGHTS” チケット一般発売中❕ Guilty Kiss, Saint Snowが出演🎉 全曲生バンドでお届けいたします🎸 申込はこちら🔽 https://www.lisani.jp/live-tamh/ #リスアニ",
+      "link": "https://nitter.net/LoveLive_staff/status/2058876986496372823#m",
+      "published": "2026-05-25 20:45 JST",
+      "is_retweet": false
+    },
+    {
+      "title": "🍨#TikTok🍨 NEXT CARDダンス動画 四季ちゃん Ver. を公開♡♡♡♡ https://vt.tiktok.com/ZSxHqPEUM/ #AiScReam 新曲「NEXT CARD」が配信中🎵 是非チェックしてください♡♡♡♡ サブスク視聴はこちら🎧 https://lnk.to/LZC-3507 リリックビデオはこちら📹 https://youtu.be/mjyVWs3hu7g?si=pWEYFEKYGpBHPqQj #ラブカ #lovelive",
+      "link": "https://nitter.net/LoveLive_staff/status/2058850570065317954#m",
+      "published": "2026-05-25 19:00 JST",
+      "is_retweet": false
+    },
+    {
+      "title": "RT by @LoveLive_staff: 最速先行＆プレオーダー先行で ＼チケットご購入済みの方対象!!／ 🩷#いきづらい部！2nd LIVE💙 　アップグレード受付は 　5月31日(日)23:59まで‼ ✨特典はTシャツ＆リストバンド✨ Tシャツは「L高生」の見つけやすさに 特化したデザインなんです…！👀👏 すでにご購入済みのL高生の皆様、 いつも応援ありがとうございます！ 2nd LIVE、一緒に楽しみましょう！🎉🎉 ▼2nd LIVE詳細▼ https://www.lovelive-anime.jp/lovehigh/live/live_detail.php?_id=2ndLIVE 一般発売（1次抽選）も実施中🙌 ぜひご参加ください♪ #イキヅライブ #ハンギャサキ",
+      "link": "https://nitter.net/ikizulive_staff/status/2058820368434176196#m",
+      "published": "2026-05-25 17:00 JST",
+      "is_retweet": true
+    },
+    {
+      "title": "RT by @LoveLive_staff: 🌈漫画連載🌈 『ラブライブ！虹ヶ咲学園スクールアイドル同好会』 #叛逆のニジガサキ　＃111 漫画／ちょぼらうにょぽみ 毎月５の倍数の日にニジガク公式Xにて更新！ コミックス1巻発売中です♪ 【お知らせ】 5月30日の更新はお休みさせていただきます。 次回更新は6月5日です。 #lovelive #虹ヶ咲 #ハンギャサキ",
+      "link": "https://nitter.net/Nijigaku_movie/status/2058805267211731400#m",
+      "published": "2026-05-25 16:00 JST",
+      "is_retweet": true
+    },
+    {
+      "title": "🍨音楽情報🍨 日経エンタテインメント！ にて #AiScReam のインタビュー記事が公開🎉 インタビューはこちら🔽 https://xtrend.nikkei.com/atcl/contents/18/00581/00193/ 新曲「NEXT CARD」についてお話しています🎵 ぜひチェックしてください💗 サブスク視聴はこちら🎧 https://lnk.to/LZC-3507 #lovelive",
+      "link": "https://nitter.net/LoveLive_staff/status/2058759969886068886#m",
+      "published": "2026-05-25 13:00 JST",
+      "is_retweet": false
+    },
     {
       "title": "【商品情報】【シリーズ】 「THEキャラCAFÉ×ラブライブ！シリーズ」より新メニューのお知らせです♪ 詳細はこちら✅ https://www.lovelive-anime.jp/news/01_6185.html #μʼs #Aqours #Liella #虹ヶ咲 #蓮ノ空 #リンクラ #lovelive",
       "link": "https://nitter.net/LoveLive_staff/status/2058747382360072689#m",
       "published": "2026-05-25 12:10 JST",
-      "is_retweet": false
-    },
-    {
-      "title": "R to @LoveLive_staff: YouTube Aqoursアーティストチャンネルはこちら https://youtube.com/@lovelive_sunshine_",
-      "link": "https://nitter.net/LoveLive_staff/status/2058739804939165966#m",
-      "published": "2026-05-25 11:39 JST",
-      "is_retweet": false
-    },
-    {
-      "title": "☀スクールアイドル活動 アバター衣装☀ YouTube Aqours アーティストチャンネルにて、 各メンバーのスタイリングをリレー形式で毎日公開！ ＜アバター衣装スタイリング 公開スケジュール＞ 5月26日（火）　黒澤ルビィ 5月27日（水）　小原鞠莉 5月28日（木）　国木田花丸 5月29日（金）　津島善子 5月30日（土）　渡辺 曜 5月31日（日）　黒澤ダイヤ 6月1日（月）　松浦果南 6月2日（火）　桜内梨子 6月3日（水）　高海千歌 お楽しみに✨ #lovelive #Aqours",
-      "link": "https://nitter.net/LoveLive_staff/status/2058737316815110427#m",
-      "published": "2026-05-25 11:30 JST",
-      "is_retweet": false
-    },
-    {
-      "title": "☀️スクールアイドル活動 ショート動画☀️ 【VRChat配信チケット発売中！】「Guilty Kiss Musical Performance 漆黒のwanted Ghost」小原鞠莉 https://youtube.com/shorts/qcHJnDP1HX8?si=qcoGMm4udHKH-tOx #lovelive #Aqours",
-      "link": "https://nitter.net/LoveLive_staff/status/2058734607550624144#m",
-      "published": "2026-05-25 11:19 JST",
-      "is_retweet": false
-    },
-    {
-      "title": "🍨「NEXT CARD」リリックビデオ🍨 #ラブカ テーマソング #AiScReam『NEXT CARD』 Official Lyric Video が10万再生突破🎉 http://youtu.be/mjyVWs3hu7g スプーンのみなさん、ありがとうございます🥄 引き続きAiScReamの応援をよろしくお願いします♡♡♡♡ #lovelive",
-      "link": "https://nitter.net/LoveLive_staff/status/2058548771269804442#m",
-      "published": "2026-05-24 23:00 JST",
-      "is_retweet": false
-    },
-    {
-      "title": "🍨#TikTok🍨 NEXT CARDダンス動画 歩夢ちゃん Ver. を公開♡♡♡♡ https://vt.tiktok.com/ZSxmXvtwR/ 新曲「NEXT CARD」が配信中🎵 是非チェックしてください♡♡♡♡ サブスク視聴はこちら🎧 https://lnk.to/LZC-3507 リリックビデオはこちら📹 https://youtu.be/mjyVWs3hu7g?si=pWEYFEKYGpBHPqQj #ラブカ #lovelive",
-      "link": "https://nitter.net/LoveLive_staff/status/2058545885752303795#m",
-      "published": "2026-05-24 22:49 JST",
       "is_retweet": false
     }
   ]
